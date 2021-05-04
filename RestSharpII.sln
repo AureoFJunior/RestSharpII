@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpII", "RestSharpII\RestSharpII.csproj", "{0A0B3ABD-3FB2-401D-944B-509A15DB19ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APItestee", "APItestee\APItestee.csproj", "{2EC5EA0C-B918-4B09-9584-8AAE3E91DB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0B3ABD-3FB2-401D-944B-509A15DB19ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0B3ABD-3FB2-401D-944B-509A15DB19ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0B3ABD-3FB2-401D-944B-509A15DB19ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0B3ABD-3FB2-401D-944B-509A15DB19ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC5EA0C-B918-4B09-9584-8AAE3E91DB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC5EA0C-B918-4B09-9584-8AAE3E91DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC5EA0C-B918-4B09-9584-8AAE3E91DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC5EA0C-B918-4B09-9584-8AAE3E91DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79AFEE9A-BAA7-498A-A780-BF9E90F91A4E}
+	EndGlobalSection
+EndGlobal
